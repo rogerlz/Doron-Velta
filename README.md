@@ -4,7 +4,7 @@
 
 I've never owned a Delta printer, but their unique design and mechanics have always fascinated me. As some of you may know, I contribute to maintaining [Danger-Klipper](https://github.com/DangerKlippers/danger-klipper), which involves testing various configurations and setups. In support of this work, Imac_29 (from the #pasteldenata) generously gifted me an FLSUN Q5. Interestingly, it never even saw the light of day in my home; I disassembled it on the very first day.
 
-This all happened around the time of SMRRF2024, where we humorously speculated that the Voron Design team would never release an official Delta design. What could be a better April Fool's joke than that? So, I went with it.
+This all happened around the time of SMRRF2023, where we humorously speculated that the Voron Design team would never release an official Delta design. What could be a better April Fool's joke than that? So, I went with it.
 
 Originally, the plan was to create an April Fool's prank using the FLSUN Q5, printing parts to make it look like a Voron design. However, I ended up using just the Q5's arms and nothing else. I gathered a collection of spare parts I had lying around, began measuring, and started designing in CAD. After various split and merges, I had a design reminiscent of the Voron Trident that I was happy enough. It wasn't complete, but it was enough to share with other contributors.
 
