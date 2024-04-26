@@ -37,6 +37,7 @@ Yes, the printer works. Yes, it prints. Yes, it's aesthetically pleasing. And ye
 | Axis | GT2 20T Pulley 9mm | 3 | G2Z Kit already includes it |
 | Axis | Nema17 Steppers | 3 | Optional: LDO G2Z Kit, but don't do this :P |
 | Axis | 210mm Fisheye Rods | 6 | I used: FLSUN Q5 arms [Aliexpress](https://www.aliexpress.com/item/1005006045340751.html) |
+| Axis | MR625 Bearing | 3 | Optional for N17 with a 24+mm shafts |
 | Bed | 200mm x 5mm Alu Bed | 1 | [MandalaRoseWorks](https://mandalaroseworks.com/collections/doron-velta) |
 | Bed | 200mm PEI Sheet | 1 | [Aliexpress](https://www.aliexpress.us/item/1005006287588997.html) |
 | Bed | 200mm Magnetic Sheet | 1 | |
@@ -65,6 +66,10 @@ Yes, the printer works. Yes, it prints. Yes, it's aesthetically pleasing. And ye
 | Screws | M5 x 60 | 6 | |
 | Screws | M3 Heat Inserts | 50 | |
 | Screws | Yes | Many | |
+
+## Changelog
+
+Apri 27, 2024 - I modified the Nema17 mounts to include a slot for an MR625 bearing and access to the pulley grub screw. I duplicated them to the bottom for those interested in doing AWD. A new bottom panel and a few missing chamfers were added.
 
 ## Thanks to
 
