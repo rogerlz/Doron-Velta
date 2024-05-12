@@ -41,7 +41,7 @@ Yes, the printer works. Yes, it prints. Yes, it's aesthetically pleasing. And ye
 | Bed | 200mm x 5mm Alu Bed | 1 | [MandalaRoseWorks](https://mandalaroseworks.com/collections/doron-velta) |
 | Bed | 200mm PEI Sheet | 1 | [Aliexpress](https://www.aliexpress.us/item/1005006287588997.html) |
 | Bed | 200mm Magnetic Sheet | 1 | |
-| Bed Mount | M3 x 6mm Ball Screw | 3 | [Aliexpress](https://pt.aliexpress.com/item/1005002808102402.html) |
+| Bed Mount | M3 x 9mm Ball Screw | 3 | [Aliexpress](https://www.aliexpress.com/item/1005002808102402.html) |
 | Bed Mount | 3 x 20mm Dowell Pin | 6 | |
 | Bed Mount | Spring 
 | Electronics | Kenoovo 170mm 200W AC Heater | 1 | [Keenovo](https://keenovo.store/collections/standard-keenovo-silicone-heaters/products/keenovo-round-circular-silicone-heater-delta-3d-printer-build-plate-heatbed-heating-pad) |
