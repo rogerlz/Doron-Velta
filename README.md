@@ -14,11 +14,16 @@ I want to make it clear that I don't claim to have extensive CAD expertise or ex
 
 Yes, the printer works. Yes, it prints. Yes, it's aesthetically pleasing. And yes, it's far from being a perfect design. Most importantly, no, **this is not an official project by Voron Design**.
 
+## **** Disclaimer ****
+
+The toolhead doesn't have the full bed travel. It will hit the panels and/or the belts. New interactions of the printed parts will improve this, but I can't promise it will ever have the full bed travel without a major redesign.
+I appreciate any and all the feedback, but I want to ensure everyone understands the design limitations.
+
 ## Links
 
-[DV-000 by rogerlz](https://www.reddit.com/r/voroncorexy/comments/1bsr2d7/special_serial_request_dv000_rogerlz/) ([YouTube](https://www.youtube.com/watch?v=DuFxvsZ5HEU))
-[DV-001 by DoubleT](https://www.reddit.com/r/voroncorexy/comments/1bsrmby/special_serial_request_dv001_doublet/) ([YouTube](https://www.youtube.com/watch?v=adXSPTnKe_0))
-
+[DV-000 by rogerlz](https://www.reddit.com/r/voroncorexy/comments/1bsr2d7/special_serial_request_dv000_rogerlz/) ([YouTube](https://www.youtube.com/watch?v=DuFxvsZ5HEU))\
+[DV-001 by DoubleT](https://www.reddit.com/r/voroncorexy/comments/1bsrmby/special_serial_request_dv001_doublet/) ([YouTube](https://www.youtube.com/watch?v=adXSPTnKe_0))\
+[DV-002 by Robert Klotz](https://www.reddit.com/r/voroncorexy/comments/1cw2izk/special_serial_request_dv002_robert_klotz/)
 
 ## Pictures
 
