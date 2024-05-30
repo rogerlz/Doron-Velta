@@ -23,7 +23,8 @@ I appreciate any and all the feedback, but I want to ensure everyone understands
 
 [DV-000 by rogerlz](https://www.reddit.com/r/voroncorexy/comments/1bsr2d7/special_serial_request_dv000_rogerlz/) ([YouTube](https://www.youtube.com/watch?v=DuFxvsZ5HEU))\
 [DV-001 by DoubleT](https://www.reddit.com/r/voroncorexy/comments/1bsrmby/special_serial_request_dv001_doublet/) ([YouTube](https://www.youtube.com/watch?v=adXSPTnKe_0))\
-[DV-002 by Robert Klotz](https://www.reddit.com/r/voroncorexy/comments/1cw2izk/special_serial_request_dv002_robert_klotz/)
+[DV-002 by Robert Klotz](https://www.reddit.com/r/voroncorexy/comments/1cw2izk/special_serial_request_dv002_robert_klotz/)\
+[DV-003 by Xiar](https://www.reddit.com/r/voroncorexy/comments/1d45y17/special_serial_request_dv_xiar/)
 
 ## Pictures
 
