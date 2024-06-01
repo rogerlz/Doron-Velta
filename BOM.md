@@ -12,10 +12,10 @@
 | Part | Qty | Notes |
 | - | - | - |
 | 200mmø x 5mm Aluminum Bed | 1 | [MandalaRoseWorks](https://mandalaroseworks.com/collections/doron-velta) |
-| 200mmø PEI Sheet | 1 | [Aliexpress](https://www.aliexpress.us/item/1005006287588997.html) |
+| 200mmø PEI Sheet | 1 | [Aliexpress](https://s.click.aliexpress.com/e/_DCjuren) |
 | 200mmø Magnetic Sheet | 1 | - |
-| M3 x 9mm Ball Screw | 3 | [Aliexpress](https://www.aliexpress.com/item/1005002808102402.html) |
-| 3 x 20mm Steel Dowel Pin | 6 | - |
+| M3 x 9mm Ball Screw | 3 | [Aliexpress](https://s.click.aliexpress.com/e/_DkTj85h) |
+| 3 x 20mm Steel Dowel Pin | 6 | [Aliexpress](https://s.click.aliexpress.com/e/_DkNIN0x) |
 
 ### Motion Components:
 
@@ -23,11 +23,11 @@
 | - | - | - |
 | MGN9H Linear Rail and Carriage | 3 | 350-400mm length of rail is recommended |
 | GT2 Timing Belt 9mm | ~3 meters | Gates belts are recommended, do not use steel core |
-| GT2 20T Idler 9mm | 3 | - |
-| 5 x 20mm Steel Dowel Pin | 3 | - |
-| GT2 20T Pulley 9mm | 3 | G2Z Kit already includes it |
+| GT2 20T Idler 9mm | 3 | [Aliexpress](https://s.click.aliexpress.com/e/_DmciI0B) |
+| 5 x 25mm Steel Dowel Pin | 3 | [Aliexpress](https://s.click.aliexpress.com/e/_DkNIN0x) |
+| GT2 20T Pulley 9mm | 3 | [Aliexpress](https://s.click.aliexpress.com/e/_Dd2qIPV) |
 | Nema17 Stepper Motors | 3 | - |
-| 210mm Fisheye Rods | 6 | I used: FLSUN Q5 arms [Aliexpress](https://www.aliexpress.com/item/1005006045340751.html) |
+| 210mm Fisheye Rods | 6 | I used: FLSUN Q5 arms [Aliexpress](https://s.click.aliexpress.com/e/_DmjUnFt) |
 | MR625 Bearing | 3 | Optional for Nema17 with shafts greater than 24+mm |
 
 ### Electronics:
@@ -51,7 +51,7 @@
 | G2SA / Sherpa Mini Extruder | 1 | These extruders mount to the top of the printhead |
 
 ### Hardware:
-> Most hardware used thoughout the design is button head
+> Most hardware used throughout the design is button head
 
 | Part | Qty | Notes |
 | - | - | - |
