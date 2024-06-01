@@ -32,47 +32,7 @@ I appreciate any and all the feedback, but I want to ensure everyone understands
 ![](images/dv-001.png)
 
 ## Bill of Materials (BOM)
-| Category | Part | Qty | Notes |
-| - | - | - | - |
-| Frame | HFSB5-2020-500-TPW  | 3 | |
-| Frame | HFSB5-2040-235 | 6 | |
-| Axis | MGN9H 350mm-400mm | 3 | I used 400mm, DoubleT used 350mm  |
-| Axis | GT2 Belt 9mm | ~3 meters | |
-| Axis | GT2 20T Idler 9mm | 3 |  |
-| Axis | Pin 5 x 20mm | 3 | |
-| Axis | GT2 20T Pulley 9mm | 3 | G2Z Kit already includes it |
-| Axis | Nema17 Steppers | 3 | Optional: LDO G2Z Kit, but don't do this :P |
-| Axis | 210mm Fisheye Rods | 6 | I used: FLSUN Q5 arms [Aliexpress](https://www.aliexpress.com/item/1005006045340751.html) |
-| Axis | MR625 Bearing | 3 | Optional for N17 with a 24+mm shafts |
-| Bed | 200mm x 5mm Alu Bed | 1 | [MandalaRoseWorks](https://mandalaroseworks.com/collections/doron-velta) |
-| Bed | 200mm PEI Sheet | 1 | [Aliexpress](https://www.aliexpress.us/item/1005006287588997.html) |
-| Bed | 200mm Magnetic Sheet | 1 | |
-| Bed Mount | M3 x 9mm Ball Screw | 3 | [Aliexpress](https://www.aliexpress.com/item/1005002808102402.html) |
-| Bed Mount | 3 x 20mm Dowell Pin | 6 | |
-| Bed Mount | Spring 
-| Electronics | Kenoovo 170mm 200W AC Heater | 1 | [Keenovo](https://keenovo.store/collections/standard-keenovo-silicone-heaters/products/keenovo-round-circular-silicone-heater-delta-3d-printer-build-plate-heatbed-heating-pad) |
-| Electronics | UHP-200-24 | 1 | |
-| Electronics | IEC320 C14 Inlet | 1 | [DigiKey](https://www.digikey.com/short/z4z73jbr) |
-| Electronics | SSR | 1 | |
-| Electronics | MCU with 4+ drivers | 1 | Mounts for: SKR Pico and M5P |
-| Electronics | Omron D2F-L microswitch | 3 | x4 if using Klicky |
-| Toolhead | Any hotend supported by Mini SB | 1 | I used: Dragon |
-| Toolhead | 3010 Axial fan | 1 | |
-| Toolhead | 3010 Blower fan | 2 | |
-| Extruder | G2SA / Sherpa Mini | 1 | |
-| Screws | M3 x 6 | 40 | |
-| Screws | M3 x 8 | 110 | |
-| Screws | M3 x 10 | 12 | | 
-| Screws | M3 x 12 | 10 | |
-| Screws | M3 x 16 | 26 | |
-| Screws | M3 x 20 | 2 | |
-| Screws | M3 x 30 | 2 | |
-| Screws | M5 x 8 | 24 | |
-| Screws | M5 x 10 | 26 | |
-| Screws | M5 x 12 | 36 | |
-| Screws | M5 x 60 | 6 | |
-| Screws | M3 Heat Inserts | 50 | |
-| Screws | Yes | Many | |
+A bill of materials can be found here: [BOM](./BOM.md)
 
 ## Changelog
 
