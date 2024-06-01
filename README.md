@@ -32,7 +32,7 @@ I appreciate any and all the feedback, but I want to ensure everyone understands
 ![](images/dv-001.png)
 
 ## Bill of Materials (BOM)
-A bill of materials can be found here: [BOM](.BOM.md)
+A bill of materials can be found here: [BOM](./BOM.md)
 
 ## Changelog
 
