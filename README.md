@@ -52,6 +52,7 @@ I appreciate any and all the feedback, but I want to ensure everyone understands
 | Bed Mount | Spring 
 | Electronics | Kenoovo 170mm 200W AC Heater | 1 | [Keenovo](https://keenovo.store/collections/standard-keenovo-silicone-heaters/products/keenovo-round-circular-silicone-heater-delta-3d-printer-build-plate-heatbed-heating-pad) |
 | Electronics | UHP-200-24 | 1 | |
+| Electronics | IEC320 C14 Inlet | 1 | [DigiKey](https://www.digikey.com/short/z4z73jbr) |
 | Electronics | SSR | 1 | |
 | Electronics | MCU with 4+ drivers | 1 | Mounts for: SKR Pico and M5P |
 | Electronics | Omron D2F-L microswitch | 3 | x4 if using Klicky |
