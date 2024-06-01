@@ -30,7 +30,7 @@ I appreciate any and all the feedback, but I want to ensure everyone understands
 
 ## Pictures
 
-<img src="images/dv-000.png" />
+<img src="images/dv-000.png" width="503"/> <img src="images/RMRRF.jpg" width="503"/>
 <img src="images/dv-001.png" height="600" />
 
 ## Bill of Materials (BOM)
