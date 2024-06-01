@@ -21,6 +21,8 @@ I appreciate any and all the feedback, but I want to ensure everyone understands
 
 ## Links
 
+[Doron-Velta Early Bird Kit by FYSETC](https://www.fysetc.com/products/early-bird-discount-pre-sale-doron-velta-3d-printer-doron-velta-dia200mm-180mm-printing-platform-free-shipping)\
+\
 [DV-000 by rogerlz](https://www.reddit.com/r/voroncorexy/comments/1bsr2d7/special_serial_request_dv000_rogerlz/) ([YouTube](https://www.youtube.com/watch?v=DuFxvsZ5HEU))\
 [DV-001 by DoubleT](https://www.reddit.com/r/voroncorexy/comments/1bsrmby/special_serial_request_dv001_doublet/) ([YouTube](https://www.youtube.com/watch?v=adXSPTnKe_0))\
 [DV-002 by Robert Klotz](https://www.reddit.com/r/voroncorexy/comments/1cw2izk/special_serial_request_dv002_robert_klotz/)\
@@ -28,15 +30,22 @@ I appreciate any and all the feedback, but I want to ensure everyone understands
 
 ## Pictures
 
-![](images/dv-000.png)
-![](images/dv-001.png)
+<img src="images/dv-000.png" />
+<img src="images/dv-001.png" height="600" />
 
 ## Bill of Materials (BOM)
 A bill of materials can be found here: [BOM](./BOM.md)
 
 ## Changelog
 
-Apri 27, 2024 - I modified the Nema17 mounts to include a slot for an MR625 bearing and access to the pulley grub screw. I duplicated them to the bottom for those interested in doing AWD. A new bottom panel and a few missing chamfers were added.
+June 1, 2024
+  - Quality of life changes everywhere. Chamfers, fillets, and hole sizes are better now, but nothing major has changed that I would recommend reprinting.
+  - @kyleisah was kind enough to create built-in supports for the corner pieces. Thank you!
+  - @chirpy is working on an amazing new toolhead. Check it out here [here](https://github.com/chirpy2605/voron/tree/main/general/CraneFly). Thank you!
+
+April 27, 2024
+  - I modified the Nema17 mounts to include a slot for an MR625 bearing and access to the pulley grub screw. I duplicated them to the bottom for those interested in doing AWD.
+  - A new bottom panel and a few missing chamfers were added.
 
 ## Thanks to
 
