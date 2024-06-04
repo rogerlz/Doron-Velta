@@ -11,7 +11,7 @@
 
 | Part | Qty | Notes |
 | - | - | - |
-| 200mmø x 5mm Aluminum Bed | 1 | [MandalaRoseWorks](https://mandalaroseworks.com/collections/doron-velta) |
+| 200mmø x 5mm Aluminum Bed | 1 | [MandalaRoseWorks](https://mandalaroseworks.com/collections/doron-velta) / EU folks can ping @owl47_brunosilva on Discord |
 | 200mmø PEI Sheet | 1 | [Aliexpress](https://s.click.aliexpress.com/e/_DCjuren) |
 | 200mmø Magnetic Sheet | 1 | - |
 | M3 x 9mm Ball Screw | 3 | [Aliexpress](https://s.click.aliexpress.com/e/_DkTj85h) |
