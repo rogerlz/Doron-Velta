@@ -27,6 +27,8 @@ I appreciate any and all the feedback, but I want to ensure everyone understands
 [DV-001 by DoubleT](https://www.reddit.com/r/voroncorexy/comments/1bsrmby/special_serial_request_dv001_doublet/) ([YouTube](https://www.youtube.com/watch?v=adXSPTnKe_0))\
 [DV-002 by Robert Klotz](https://www.reddit.com/r/voroncorexy/comments/1cw2izk/special_serial_request_dv002_robert_klotz/)\
 [DV-003 by Xiar](https://www.reddit.com/r/voroncorexy/comments/1d45y17/special_serial_request_dv_xiar/)
+[DV-004 by Owl47 Bruno Silva](https://discord.com/channels/825469421346226226/1246869064173748285/1246998381964824697)
+[DV-005 by ZombieHedgeDog](https://discord.com/channels/825469421346226226/1246869064173748285/1247178407012208701)
 
 ## Pictures
 
@@ -38,12 +40,21 @@ A bill of materials can be found here: [BOM](./BOM.md)
 
 ## Changelog
 
-June 1, 2024
+TBD (R2)
+  - An extra 10mm travel achieved with some deeper changes on the printed parts. The 2020s moved 5mm to the back, and 2040s moved 5mm to the sides. Almost all printed parts are changing, except the skirts. The only hardware changes are ont he ACM panels.
+
+June 7, 2024 (R1 v30)
+  - The interactions are on fire. I invite you to join the DOOMCUBE Discord (#doron_velta_dev) or the Voron Discord (Doron Velta thread) to chat with more people building and modding the design.
+  - I got an extra 5mm travel by removing some meat from the belt carriages. That means a new idler mount, new carriage and new endstop mount. No hardware changes.
+  - I removed the SKR Pico and Raspberry Pi objects to reduce the cad file size.
+  - This makes the Release 1 version with the exported STLs.
+
+June 1, 2024 (v23)
   - Quality of life changes everywhere. Chamfers, fillets, and hole sizes are better now, but nothing major has changed that I would recommend reprinting.
   - @kyleisah was kind enough to create built-in supports for the corner pieces. Thank you!
   - @chirpy is working on an amazing new toolhead. Check it out here [here](https://github.com/chirpy2605/voron/tree/main/general/CraneFly). Thank you!
 
-April 27, 2024
+April 27, 2024 (v16 I think)
   - I modified the Nema17 mounts to include a slot for an MR625 bearing and access to the pulley grub screw. I duplicated them to the bottom for those interested in doing AWD.
   - A new bottom panel and a few missing chamfers were added.
 
