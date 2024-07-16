@@ -42,7 +42,7 @@ A bill of materials can be found here: [BOM](./BOM.md)
 ## Changelog
 
 July 13, 2024 (R2 v20)
-  - I got an extra ~10mm travel achieved with some improvements on the printed parts. The 2020s moved 5mm to the back, and 2040s moved 5mm to the sides. Almost all printed parts are changing, except the skirts. The only hardware changes are on the ACM panels as they are sligly wider now. The M5x60s are no longer needed.
+  - I got an extra ~10mm travel achieved with some improvements on the printed parts. The 2020s moved 5mm to the back, and 2040s moved 5mm to the sides. Almost all printed parts are changing, except the skirts. The only hardware changes are on the ACM panels as they are slightly wider now. The M5x60s are no longer needed.
   - Doron-Velta has a new logo (thanks to @matrixray).
   - I added new skirts with the new logo.
   - There is also a new skirt with a 6020 fan (Thanks to @timmit99 and @seti118 for the fan mount)
