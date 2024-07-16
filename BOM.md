@@ -43,12 +43,7 @@
 
 ### Printhead:
 
-| Part | Qty | Notes |
-| - | - | - |
-| Any hotend supported by MiniStealthBurner from Voron V0.2 | 1 | [Voron Zero Repo](https://github.com/VoronDesign/Voron-0) |
-| 3010 Axial fan | 1 | - |
-| 3010 Blower fan | 2 | - |
-| G2SA / Sherpa Mini Extruder | 1 | These extruders mount to the top of the printhead |
+See [CraneFly by chirpy](https://github.com/chirpy2605/voron/tree/main/general/CraneFly)
 
 ### Hardware:
 > Most hardware used throughout the design is button head
@@ -57,7 +52,7 @@
 | - | - | - |
 | M3 x 6 | 40 | - |
 | M3 x 8 | 110 | - |
-| M3 x 10 | 12 | - | 
+| M3 x 10 | 12 | - |
 | M3 x 12 | 10 | - |
 | M3 x 16 | 26 | - |
 | M3 x 20 | 2 | - |
@@ -65,7 +60,9 @@
 | M5 x 8 | 24 | - |
 | M5 x 10 | 26 | - |
 | M5 x 12 | 36 | - |
-| M5 x 60 | 6 | - |
+| M5 x 16 | 3  | - |
+| M5 x 25 | 6 | - |
+| M5 Hex Nut | 3 | - |
 | M3 Heat Inserts | 50 | - |
 
 ### Panels:

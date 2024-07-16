@@ -21,18 +21,19 @@ I appreciate any and all the feedback, but I want to ensure everyone understands
 
 ## Links
 
-[Doron-Velta Early Bird Kit by FYSETC](https://www.fysetc.com/products/early-bird-discount-pre-sale-doron-velta-3d-printer-doron-velta-dia200mm-180mm-printing-platform-free-shipping)\
+[Doron-Velta Early Bird Kit by FYSETC](https://s.click.aliexpress.com/e/_DejsxX9)\
 \
 [DV-000 by rogerlz](https://www.reddit.com/r/voroncorexy/comments/1bsr2d7/special_serial_request_dv000_rogerlz/) ([YouTube](https://www.youtube.com/watch?v=DuFxvsZ5HEU))\
 [DV-001 by DoubleT](https://www.reddit.com/r/voroncorexy/comments/1bsrmby/special_serial_request_dv001_doublet/) ([YouTube](https://www.youtube.com/watch?v=adXSPTnKe_0))\
 [DV-002 by Robert Klotz](https://www.reddit.com/r/voroncorexy/comments/1cw2izk/special_serial_request_dv002_robert_klotz/)\
-[DV-003 by Xiar](https://www.reddit.com/r/voroncorexy/comments/1d45y17/special_serial_request_dv_xiar/)
-[DV-004 by Owl47 Bruno Silva](https://discord.com/channels/825469421346226226/1246869064173748285/1246998381964824697)
+[DV-003 by Xiar](https://www.reddit.com/r/voroncorexy/comments/1d45y17/special_serial_request_dv_xiar/)\
+[DV-004 by Owl47 Bruno Silva](https://discord.com/channels/825469421346226226/1246869064173748285/1246998381964824697)\
 [DV-005 by ZombieHedgeDog](https://discord.com/channels/825469421346226226/1246869064173748285/1247178407012208701)
+...
 
 ## Pictures
 
-<img src="images/dv-000.png" width="503"/> <img src="images/RMRRF.jpg" width="503"/>
+<img src="images/dv-000.png"/> <img src="images/RMRRF.jpg"/>
 <img src="images/dv-001.png" height="600" />
 
 ## Bill of Materials (BOM)
@@ -40,8 +41,14 @@ A bill of materials can be found here: [BOM](./BOM.md)
 
 ## Changelog
 
-TBD (R2)
-  - An extra 10mm travel achieved with some deeper changes on the printed parts. The 2020s moved 5mm to the back, and 2040s moved 5mm to the sides. Almost all printed parts are changing, except the skirts. The only hardware changes are ont he ACM panels.
+July 13, 2024 (R2 v20)
+  - I got an extra ~10mm travel achieved with some improvements on the printed parts. The 2020s moved 5mm to the back, and 2040s moved 5mm to the sides. Almost all printed parts are changing, except the skirts. The only hardware changes are on the ACM panels as they are sligly wider now. The M5x60s are no longer needed.
+  - Doron-Velta has a new logo (thanks to @matrixray).
+  - I added new skirts with the new logo.
+  - There is also a new skirt with a 6020 fan (Thanks to @timmit99 and @seti118 for the fan mount)
+  - New UHP-200 mount to compensate the extrusions movement (Thanks to @timmit99)
+  - The official toolhead is now [CraneFly by chirpy](https://github.com/chirpy2605/voron/tree/main/general/CraneFly). The MiniSB is hidden in the F3D file, but I won't be making changes to it anymore. Thanks chirpy!
+  - Lots of small tweaks here and there based on the community feedback. Thanks everyone.
 
 June 7, 2024 (R1 v30)
   - The interactions are on fire. I invite you to join the DOOMCUBE Discord (#doron_velta_dev) or the Voron Discord (Doron Velta thread) to chat with more people building and modding the design.
