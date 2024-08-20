@@ -27,7 +27,7 @@
 | 5 x 25mm Steel Dowel Pin | 3 | [Aliexpress](https://s.click.aliexpress.com/e/_DkNIN0x) |
 | GT2 20T Pulley 9mm | 3 | [Aliexpress](https://s.click.aliexpress.com/e/_Dd2qIPV) |
 | Nema17 Stepper Motors (60mm maximum, 48mm recommended) | 3 | - |
-| 210mm Fisheye Rods | 6 | I used: FLSUN Q5 arms [Aliexpress](https://s.click.aliexpress.com/e/_DmjUnFt) |
+| 210mm Fisheye Rods | 6 | I used: FLSUN Q5 arms [Aliexpress](https://s.click.aliexpress.com/e/_DczHNMX) |
 | MR625 Bearing | 3 | Optional for Nema17 with shafts greater than 24+mm |
 
 ### Electronics:
