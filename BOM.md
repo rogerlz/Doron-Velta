@@ -21,7 +21,7 @@
 
 | Part | Qty | Notes |
 | - | - | - |
-| MGN9H Linear Rail and Carriage | 3 | 350-400mm length of rail is recommended [Aliexpress](https://s.click.aliexpress.com/e/_Dd2r1B5)|
+| MGN9H 350mm Linear Rail and Carriage | 3 | Any length between 350mm and 400mm fits [Aliexpress](https://s.click.aliexpress.com/e/_Dd2r1B5)|
 | GT2 Timing Belt 9mm | ~3 meters | Gates belts are recommended, do not use steel core [Aliexpress](https://s.click.aliexpress.com/e/_Ddi0U3Z) |
 | GT2 20T Idler 9mm | 3 | [Aliexpress](https://s.click.aliexpress.com/e/_DmciI0B) |
 | 5 x 25mm Steel Dowel Pin | 3 | [Aliexpress](https://s.click.aliexpress.com/e/_DkNIN0x) |
